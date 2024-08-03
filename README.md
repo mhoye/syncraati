@@ -1,5 +1,7 @@
 # Syncraati 
 
+![a screenshot, an example and demonstration of Syncraati](syncraati.png)
+
 ## A Linux console font by mhoye
 
 [Syncraati](https://github.com/mhoye/syncraati) is a console 
