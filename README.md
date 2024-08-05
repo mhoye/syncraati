@@ -4,7 +4,8 @@
 
 [Syncraati](https://github.com/mhoye/syncraati) is a console 
 font for Linux created as an homage to the angular, stylized text 
-of now-ancient vector-graphics games and various sci-fi interfaces.
+of now-ancient vector-graphics games and a particular flavor of
+classic sci-fi interfaces.
 
 While incremental improvements are always welcome. The author is 
 well aware of the uneven letter heights and other inconsistencies; before
